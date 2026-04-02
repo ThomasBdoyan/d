@@ -1,7 +1,9 @@
 {
   "name": "Просто починим",
   "short_name": "App",
-  "start_url": "https://xn--h1aamcdaafchmm2e.xn--p1ai/",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
